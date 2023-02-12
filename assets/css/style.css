@@ -16,6 +16,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    min-height: 100vh;
 }
 
 .card{
@@ -26,7 +27,6 @@ body{
     height: 498px;
     background-color: #FFF;
     border-radius: 15px;
-    margin-top: 152px;
     padding: 16px;
 }
 
